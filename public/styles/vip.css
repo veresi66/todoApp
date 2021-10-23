@@ -1,0 +1,11 @@
+.btn.btn-add {
+    margin: .7em 0;
+}
+
+.todo0 {
+    background-color: rgba(255, 0, 0, .8) !important;
+}
+
+.todo1 {
+    background-color: rgba(0, 255, 0, .8) !important;
+}

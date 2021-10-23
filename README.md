@@ -1,0 +1,1 @@
+A prog-Oak Kft által adott feladat megoldása.
